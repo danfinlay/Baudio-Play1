@@ -1,0 +1,13 @@
+{
+	"name":"Dan's first Baudio Song",
+	"version":"0.0.1",
+	"description":"Funning around with baudio in the wake of Node PDX.",
+	"dependencies":{
+		"baudio":"~1.0.0"
+	},
+	"author":{
+		"name":"Dan Finlay",
+		"email":"dan@danfinlay.com",
+		"url":"http://danfinlay.com"
+	}
+}
