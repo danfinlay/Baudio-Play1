@@ -1,13 +1,21 @@
 {
-	"name":"Dan's first Baudio Song",
-	"version":"0.0.1",
-	"description":"Funning around with baudio in the wake of Node PDX.",
-	"dependencies":{
-		"baudio":"~1.0.0"
-	},
-	"author":{
-		"name":"Dan Finlay",
-		"email":"dan@danfinlay.com",
-		"url":"http://danfinlay.com"
-	}
+  "name": "Baudio-Play1",
+  "version": "0.0.0",
+  "description": "Playing with baudio to generate music",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flyswatter/Baudio-Play1.git"
+  },
+  "author": "Dan Finlay",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/flyswatter/Baudio-Play1/issues"
+  },
+  "dependencies": {
+    "baudio": "~1.0.0"
+  }
 }

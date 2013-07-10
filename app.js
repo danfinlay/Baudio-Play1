@@ -46,4 +46,4 @@ var b = baudio(function (t) {
 });
 
 b.play();
-b.record('./result')
+//b.record('./result')
